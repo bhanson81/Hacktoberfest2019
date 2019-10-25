@@ -1,4 +1,5 @@
-
+#Author: USDAprimeRib
+#Date:   June 2019
 import win32api, win32con, time
 
 # retrieves the cursor's position:
